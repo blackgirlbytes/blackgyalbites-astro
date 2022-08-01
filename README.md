@@ -1,1 +1,0 @@
-# blackgyalbites-astro
