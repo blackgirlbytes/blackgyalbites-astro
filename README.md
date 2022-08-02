@@ -1,12 +1,12 @@
 # blackgyalbites
 
-### Template for No-touch Menus and Host Static Pages Built with Any Framework on GitHub Pages
+## Template for No-touch Menus and Host Static Pages Built with Any Framework on GitHub Pages
 
 ![screenshot of website with 3 buttons that read: food menu, drinks menu, and catering menu. on the right of it is a screenshot of the drinks menu](https://user-images.githubusercontent.com/22990146/182385358-364d812f-a5a8-48ad-9ac7-3bf9e14d9614.png)
 
-Website built with Astro to display restaurant menus when users scan a QR code.
+### Website built with Astro to display restaurant menus when users scan a QR code.
 
-### Powered By GitHub Pages
+## Powered By GitHub Pages
 
 This is a demonstration to show developers that they can build and host static websites using any framework. 
 See more example frameworks hosted on GitHub Pages:
@@ -15,7 +15,7 @@ See more example frameworks hosted on GitHub Pages:
 - [Next.js and Tailwind CSS](https://github.com/blackgirlbytes/blackgyalbites-nextjs)
 - [Astro](https://github.com/blackgirlbytes/blackgyalbites-astro)
 
-
+Link to live site: https://blackgirlbytes.github.io/blackgyalbites-astro/
 
 ### Design and Development
 All designs and elements are open source, available for free for anyone to use.
