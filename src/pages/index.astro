@@ -1,0 +1,26 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Header from "../components/Header.astro";
+import MenuButtons from "../components/MenuButtons.astro";
+import AdditionalInformation from "../components/AdditionalInformation.astro";
+import Footer from "../components/Footer.astro";
+---
+
+<Layout title="Welcome to Astro.">
+
+	<body>
+		<Header />
+		<MenuButtons />
+		<AdditionalInformation />
+		<Footer />
+	</body>
+</Layout>
+
+<style>
+	body {
+		margin: 0;
+		text-align: center;
+		font-family: 'Lato', sans-serif;
+		color: #653A1E;
+	}
+</style>
