@@ -4,5 +4,7 @@ import image from "@astrojs/image";
 
 // https://astro.build/config
 export default defineConfig({
-  integrations: [image()]
+  integrations: [image()],
+  site: 'https://blackgirlbytes.github.io',
+  base: '/blackgyalbites-astro'
 });
