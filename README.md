@@ -26,7 +26,7 @@ Designed by [The Holistic Technologist](https://holistictech.io)
 
 Illustrations by [Cuoc Doi Prints](https://www.cuocdoiprints.com)
 
-Feel free to fork, copy, tweak, and use for any purpose. This project is completely open source, and under MIT license. 
+Feel free to fork, copy, tweak, and use for any purpose. This project is completely open source, and under [MIT license](https://github.com/blackgirlbytes/blackgyalbites-astro/blob/main/LICENSE). 
 
 Menu Design Template: [Canva](https://www.canva.com/design/DAFGhaCejFw/zy2w9ZjXJBZ3NssSdfhpTw/view?utm_content=DAFGhaCejFw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
