@@ -63,7 +63,7 @@ jobs:
         run: npm run build
 
    # Deployment job
-  deploy:
+  deploy-pages:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
