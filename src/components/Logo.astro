@@ -1,0 +1,20 @@
+---
+// import astro image
+import { Image } from '@astrojs/image/components';
+import logoImage from '../../public/vector-2.png';
+---
+
+<Image class="logo" src={logoImage} />
+
+<style>
+    .logo {
+        width: 450px;
+        height: 420px;
+    }
+
+    @media (min-width: 768px) and (max-width: 2000px) {
+        .logo {
+            width: 30%;
+        }
+    }
+</style>

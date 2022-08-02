@@ -1,0 +1,47 @@
+---
+import { Props } from "astro";
+
+export interface MenuButtonProps {
+    /** The menu's type */
+    menuType: string;
+    /** The menu's URL */
+    url: string;
+}
+const { url, menuType } = Astro.props as Props;
+---
+
+<a class="openButton" href={url}>{menuType} MENU</a>
+
+
+<style>
+    .openButton {
+        display: block;
+        width: 80%;
+        padding: 3%;
+        margin: 15px auto;
+        background-color: #FFDE59;
+        border: 2px solid #FA873E;
+        border-radius: 10px;
+        font-size: 20px;
+        text-transform: uppercase;
+    }
+
+    a {
+        text-decoration: none;
+        color: #653A1E;
+    }
+
+    a:hover,
+    a:visited {
+        color: #653A1E;
+    }
+
+    @media (min-width: 768px) and (max-width: 2000px) {
+
+        .openButton {
+            width: 50%;
+            padding: 1%;
+        }
+
+    }
+</style>
